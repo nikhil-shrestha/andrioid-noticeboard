@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Khec Notice Board</string>
+    <string name="hello_blank_fragment">Home fragment</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KhEC Notice App</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home fragment</string>
+    <string name="login">Login</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Me</string>
+    <string name="search">Search</string>
+</resources>
